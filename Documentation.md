@@ -6,11 +6,17 @@ You can edit value when you place an actor in the world, click on it and in the 
         - 0 -> Don't moove
         - 1 -> Go right
         - 2 -> Random
-- Mystery Block
+- Mystery Block / Invisible Block
     - Type
         - 0 -> Coin
         - 1 -> Power up (according to actual form of Wario)
         - 2 -> Poison Mushroom
+- Bullet Bill / Goomba / Spiny / Koopa
+    - Direction
+        - -1 -> Go left
+        - 0 -> Don't fire
+        - 1 -> Go right
+        - 2 -> Random
 - Bill Blaster
     - Direction
         - -1 -> Go left
@@ -18,9 +24,5 @@ You can edit value when you place an actor in the world, click on it and in the 
         - 1 -> Go right
         - 2 -> Random
         - 3 -> One on the right, one on the left
-- Bullet Bill
-    - Direction
-        - -1 -> Go left
-        - 0 -> Don't fire
-        - 1 -> Go right
-        - 2 -> Random
+    - TimeBetweenBullets
+	- from 0.2 to 3s
