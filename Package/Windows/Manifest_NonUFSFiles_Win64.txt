@@ -1,5 +1,5 @@
 MotionDesignProject/Binaries/Win64/D3D12/D3D12Core.dll	2024-01-31T20:41:48.058Z
-MotionDesignProject/Binaries/Win64/MotionDesignProject-Win64-Shipping.exe	2024-05-18T15:41:54.224Z
+MotionDesignProject/Binaries/Win64/MotionDesignProject-Win64-Shipping.exe	2024-05-18T16:15:42.995Z
 MotionDesignProject/Binaries/Win64/OpenImageDenoise.dll	2024-01-31T21:24:21.307Z
 MotionDesignProject/Binaries/Win64/tbb.dll	2024-01-31T20:41:43.606Z
 MotionDesignProject/Binaries/Win64/tbb12.dll	2024-01-31T21:24:20.400Z
@@ -12,4 +12,4 @@ Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2024-01-31T20:41
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2024-01-31T20:41:48.051Z
 Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2024-01-31T20:41:48.196Z
 Engine/Content/Slate/Cursor/invisible.cur	2024-01-31T21:20:12.706Z
-MotionDesignProject.exe	2024-05-18T15:57:19.433Z
+MotionDesignProject.exe	2024-05-18T16:15:51.859Z
