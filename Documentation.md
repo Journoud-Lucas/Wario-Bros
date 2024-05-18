@@ -26,3 +26,8 @@ You can edit value when you place an actor in the world, click on it and in the 
         - 3 -> One on the right, one on the left
     - TimeBetweenBullets
 	- from 0.2 to 3s
+- GroundSeveral
+    - NumX
+	- Number of blocks to place in X (>0)
+    - NumY
+	- Number of blocks to place in Y (>0)
