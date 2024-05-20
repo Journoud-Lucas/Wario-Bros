@@ -12,6 +12,9 @@ This is our end-of-year project for [l'Université Lumière Lyon 2](https://www.
 We had to make a small project in a short space of time in the field we wanted to work in. Both wanting to work in the video game industry, we decided to create a small game using Unreal Engine 5.3.2.
 For this project, we decided to put our technical skills and ingenuity to the test, while paying homage to a timeless video game classic: Mario Bros.
 
+## 🎬 Level completed
+You can watch a video of the completed level here: https://www.youtube.com/watch?v=ZC-Gmh_3Djs
+
 ## 🧰 Level creation
 You can easily create your own level! Just follow the [documentation](Documentation.md).
 
